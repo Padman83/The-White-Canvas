@@ -6,7 +6,7 @@ The-White-Canvas App.
 ### Code Editor
 * [Visual Studio Code] (https://code.visualstudio.com)
 
-### Buit with 
+### Built with 
 * [p5js] (https://p5js.org)
 
 ## Contact
