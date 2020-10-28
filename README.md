@@ -3,12 +3,9 @@
 ## 🧰 System Requirements
 
 * Cross-Platform
-
-### Code Editor
-
 * [Visual Studio Code] (https://code.visualstudio.com)
 
-### Built with 
+### Language + Framework
 
 * [p5js] (https://p5js.org)
 
