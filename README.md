@@ -1,4 +1,5 @@
-![screencapture-padman83-github-io-The-White-Canvas-2019-08-06-21_05_10](https://user-images.githubusercontent.com/45048950/62950829-6f2b1680-be1b-11e9-8232-0e27676b91d8.png)
+
+![ezgif com-optimize](https://user-images.githubusercontent.com/45048950/97895363-a6624c00-1d6e-11eb-8b2c-9577b2928f4f.gif)
 
 ## 🧰 System Requirements
 
